@@ -1,0 +1,55 @@
+html {
+background: url(../images/headerimage.jpg) no-repeat center center fixed;
+background-size: contain;
+}
+
+body {
+	width: 1000px;
+	margin: 0 auto;
+	font-family: Roboto;
+	color: #f06d06;
+	background:;
+}
+
+.img{
+
+}
+
+#logo {
+	text-align: left;
+
+}
+
+#logo a {
+	text-decoration:none;
+  font-style: italic;
+  font-family: cursive;
+	color: #545F66;
+}
+
+#logo h1 {
+	font-size: 65px;
+
+}
+
+nav ul {
+	width: 100%;
+}
+
+nav ul li {
+	width: 100px;
+	display: inline-block;
+	margin: 10px 100px;
+	text-align: center;
+}
+
+nav ul li a {
+	background: rgba(0, 0, 0, 0.35);
+	display: block;
+	line-height: 40px;
+	height: 40px;
+	width:100px;
+	color: #545F66;
+	text-decoration: none;
+	font-size: 18px;
+}
